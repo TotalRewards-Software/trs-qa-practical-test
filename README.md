@@ -12,7 +12,7 @@ You will review a mock Total Rewards Statement web page and perform a brief anal
 
 ## 📖 Instructions
 
-1. Open the test site: [https://yourusername.github.io/trs-qa-practical-test/](https://yourusername.github.io/trs-qa-practical-test/)
+1. Open the test site: [https://totalrewards-software.github.io/trs-qa-practical-test/](https://totalrewards-software.github.io/trs-qa-practical-test/)
 2. Review the web page as if you were testing it before release.
 3. Answer the questions below based on your review.
 
